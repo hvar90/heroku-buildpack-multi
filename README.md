@@ -1,5 +1,3 @@
-# Deprecated
 
-This project is deprecated and is no longer being maintained.
+projecto from https://github.com/ddollar/heroku-buildpack-multi
 
-Please check out my current project [Convox](https://convox.com) for all of your deployment needs!
